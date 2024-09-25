@@ -1,0 +1,4 @@
+com\desafiocloud\DesafioCloudApplication.class
+com\desafiocloud\employee\EmployeeService.class
+com\desafiocloud\employee\EmployeeController.class
+com\desafiocloud\employee\Employee.class
