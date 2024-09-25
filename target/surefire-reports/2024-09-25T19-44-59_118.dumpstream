@@ -1,5 +1,0 @@
-# Created at 2024-09-25T19:45:00.515
-Boot Manifest-JAR contains absolute paths in classpath 'D:\Java\t-academy\desafio-cloud\target\test-classes'
-Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
-'other' has different root
-
