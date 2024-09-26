@@ -7,7 +7,7 @@
 
 ### Implementação
 
-Foi criada uma API com operações CRUD de funcionários
+Foi criada uma API com operações CRUD de funcionários, e feito o deploy no Render com o plano gratuito
 
 Url base: https://java-desafio-cloud.onrender.com 
 
